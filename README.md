@@ -3,6 +3,9 @@ Chemistry-Compound-Calculator
 
 > Calculates the formula of the compound given the percentage of C, H, N, and O.
 
+I created this for Chemistry 11, to quickly calculate the answers to an assignment.
+After coding this, I remembered the formula and did not need to use the script, again ;).
+
 -----
 
 ## Usage
